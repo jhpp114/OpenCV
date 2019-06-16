@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\jhpp1\desktop\opencv\video\main.cpp(90): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  video.vcxproj -> C:\Users\jhpp1\Desktop\OpenCV\video\x64\Debug\video.exe
